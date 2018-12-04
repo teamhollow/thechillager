@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thechillager",
+  "name": "The Chillager",
+  "description": "A festive boss mob for the MMD Winter Jam.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DeflatedPickle"],
+  "credits": "Forge, FML and you",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
