@@ -1,4 +1,4 @@
-package egg;
+package assets.thechillager.models.item;
 
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.model.ModelRenderer;
