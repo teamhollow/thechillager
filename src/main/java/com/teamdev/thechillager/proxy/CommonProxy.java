@@ -6,4 +6,10 @@ public abstract class CommonProxy {
 	
 	public abstract Side getSide();
 
+	public void preInit() {
+	}
+
+	public void init() {
+	}
+	
 }

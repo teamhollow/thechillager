@@ -7,6 +7,14 @@ public class ServerProxy extends CommonProxy {
 	@Override
 	public Side getSide() {
 		return Side.SERVER;
-	}	
+	}
+	
+	@Override
+	public void preInit() {
+	}
+
+	@Override
+	public void init() {
+	}
 	
 }

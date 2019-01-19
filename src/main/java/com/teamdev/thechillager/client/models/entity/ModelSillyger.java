@@ -1,4 +1,4 @@
-package assets.thechillager.models.entity;
+package com.teamdev.thechillager.client.models.entity;
 
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.model.ModelRenderer;

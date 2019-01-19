@@ -16,7 +16,8 @@ public class ModItems {
 	public static final Item GINGERBREAD_NOTCH = null;
 	
 	@SubscribeEvent
-	public static void registerItems(RegistryEvent.Register<Item> event) {
+	public static void registerItems(RegistryEvent.Register<Item> event)
+	{
 		event.getRegistry().registerAll(
 				new ItemGingerbreadNotch(4, 1.2F, false).setRegistryName("gingerbread_notch").setTranslationKey(TheChillager.MODID + ".gingerbread_notch"));
 	}
